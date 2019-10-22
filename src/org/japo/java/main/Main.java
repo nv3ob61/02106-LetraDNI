@@ -23,8 +23,8 @@ public class Main {
 
     public static void main(String[] args) {
                 
-        System.out.println("El DNI: 11222333");
-        System.out.println("T");
+        System.out.print("El DNI.......: 11222333-");
+        System.out.printf("T %n");
         
     }
 }
